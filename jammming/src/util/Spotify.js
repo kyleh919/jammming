@@ -1,7 +1,7 @@
 let userAccessToken;
 const CLIENT_ID = 'b6b8c88b97e848368b79bec15429fb87';
 const REDIRECT_URI = 'http://localhost:3000/';
-// const REDIRECT_URI = 'http://JAMMMING_Kyle.surge.sh';
+// const REDIRECT_URI = 'http://jammming-submission.surge.sh';
 
 let Spotify = {
   getAccessToken() {
